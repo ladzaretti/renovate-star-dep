@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "rambda": "*",
+    "rambda": "",
     "typescript": "x"
   },
   "dependencies": {
